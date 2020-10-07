@@ -64,4 +64,4 @@ function TextOutlineScene() {
 }
 
 export const TextOutlineSt = () => <TextOutlineScene />
-TextOutlineSt.storyName = 'Default'
+TextOutlineSt.storyName = 'Outline'

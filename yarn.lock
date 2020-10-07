@@ -11523,10 +11523,10 @@ tr46@^2.0.2:
   dependencies:
     punycode "^2.1.1"
 
-troika-three-text@^0.34.0-textoutline.3:
-  version "0.34.0-textoutline.3"
-  resolved "https://registry.yarnpkg.com/troika-three-text/-/troika-three-text-0.34.0-textoutline.3.tgz#0f21c20b809722d8d01973193ca889a4d552eebc"
-  integrity sha512-GtWbRggTCnfUnuMwmceN2VbSAF8J1tAn5WrpPsXK3GV9QXeeDINqdw4yLt3uWvYztoLBFa8nSuxnhmswGfXLZA==
+troika-three-text@^0.34.0-textoutline.4:
+  version "0.34.0-textoutline.4"
+  resolved "https://registry.yarnpkg.com/troika-three-text/-/troika-three-text-0.34.0-textoutline.4.tgz#6d44bce122b452cc20a11e65b74cc576bd44a4e9"
+  integrity sha512-vPMJ647e9buoKooevU9sqFHhpijSxDzGzj4fm/0FUxPQ0j/9iEDROlBrTXCyVc3mVk/LeQd4IASjQs9Tlvj5IA==
   dependencies:
     troika-three-utils "^0.33.1"
     troika-worker-utils "^0.33.0"
