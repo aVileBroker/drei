@@ -1669,6 +1669,14 @@
     "@react-spring/core" "9.0.0-rc.3"
     "@react-spring/shared" "9.0.0-rc.3"
 
+"@react-three/postprocessing@^1.4.1":
+  version "1.4.1"
+  resolved "https://registry.yarnpkg.com/@react-three/postprocessing/-/postprocessing-1.4.1.tgz#bc55edac6dfb6b268b4de2fcc8fd179b582479e8"
+  integrity sha512-i7jM9GFP6wGlPg3iKueDU+HrnRkSf+zhJMHc5E9Ku5+nZjGdeM4Dk1aUkb+AhnloGkcpiB5LBmqPpdvVWRgSCQ==
+  dependencies:
+    postprocessing "^6.17.1"
+    react-merge-refs "^1.1.0"
+
 "@rollup/plugin-replace@^2.3.2":
   version "2.3.3"
   resolved "https://registry.yarnpkg.com/@rollup/plugin-replace/-/plugin-replace-2.3.3.tgz#cd6bae39444de119f5d905322b91ebd4078562e7"
@@ -9397,6 +9405,11 @@ postcss@^7.0.0, postcss@^7.0.14, postcss@^7.0.26, postcss@^7.0.32, postcss@^7.0.
     source-map "^0.6.1"
     supports-color "^6.1.0"
 
+postprocessing@^6.17.1:
+  version "6.17.4"
+  resolved "https://registry.yarnpkg.com/postprocessing/-/postprocessing-6.17.4.tgz#015c1e8c8d04243875b0da4b52e9f3a407e2d3ec"
+  integrity sha512-rW22ucag46rPfOMKfHjEsUszVYrdvUd3q64muEq8cEqFgQRivmGS43Eijsho16CBigIF7CTb6yxHj5YtC+XCAQ==
+
 prelude-ls@^1.2.1:
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/prelude-ls/-/prelude-ls-1.2.1.tgz#debc6489d7a6e6b0e7611888cec880337d316396"
@@ -11523,10 +11536,10 @@ tr46@^2.0.2:
   dependencies:
     punycode "^2.1.1"
 
-troika-three-text@^0.34.0-textoutline.4:
-  version "0.34.0-textoutline.4"
-  resolved "https://registry.yarnpkg.com/troika-three-text/-/troika-three-text-0.34.0-textoutline.4.tgz#6d44bce122b452cc20a11e65b74cc576bd44a4e9"
-  integrity sha512-vPMJ647e9buoKooevU9sqFHhpijSxDzGzj4fm/0FUxPQ0j/9iEDROlBrTXCyVc3mVk/LeQd4IASjQs9Tlvj5IA==
+troika-three-text@^0.34.0-textoutline.5:
+  version "0.34.0-textoutline.5"
+  resolved "https://registry.yarnpkg.com/troika-three-text/-/troika-three-text-0.34.0-textoutline.5.tgz#2bcbd732048b38d7892ad958693dcc19efef93e9"
+  integrity sha512-mbdWZLbtJGrwzAGpQkKBk82UnQBNJdLmnn8ekD+lqnbvP0JJu8tcEdg5YtV1LETwMTnMRBtGqKD7Ile6tcTk7A==
   dependencies:
     troika-three-utils "^0.33.1"
     troika-worker-utils "^0.33.0"
